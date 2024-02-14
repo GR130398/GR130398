@@ -1,6 +1,6 @@
 # Hi there 👋
 ## I am
-iit Research Fellow - Robotics Engineer [@JOiiNT LAB](https://github.com/JOiiNT-LAB)
+iit Research Fellow - Robotics Engineer [@JOiiNT LAB](https://github.com/JOiiNT-LAB)  
 [Personal Website](https://sites.google.com/view/gabriele-ribolla/home)
 ## Interests: 
 Robotics, Autonomous Systems
