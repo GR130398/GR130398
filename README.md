@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am
+## Actual job:
 iit Research Fellow - Robotics Engineer [@JOiiNT LAB](https://github.com/JOiiNT-LAB)  
 [Personal Website](https://sites.google.com/view/gabriele-ribolla/home)
 ## Interests: 
